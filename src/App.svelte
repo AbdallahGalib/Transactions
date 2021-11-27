@@ -32,7 +32,7 @@
 	[full] {width:100%;}
 	ul, li {padding:0.5rem;; margin: 0}
 	* { box-sizing: border-box; }
-	.selected {background: darkgreen; color: whitesmoke;}
+	.selected {background: darkgreen; color:black;}
 </style>
 
 
